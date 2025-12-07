@@ -1,0 +1,13 @@
+{
+  "id": "article1",
+  "source": "riga.lv",
+  "lv_url": "https://www.riga.lv/lv/jaunums/otraja-advente-rigu-pieskandinas-dazadas-koncertprogrammas",
+  "en_url": "https://www.riga.lv/en/article/various-concert-programmes-will-be-performed-riga-during-second-advent",
+  "languages": ["lv", "en"],
+  "files": {
+    "lv": "cleaned/lv/article1.clean.txt",
+    "en": "cleaned/en/article1.clean.txt"
+  },
+  "topic": "municipal news",
+  "notes": "Document-level parallel pair"
+}

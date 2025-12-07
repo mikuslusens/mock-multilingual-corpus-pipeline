@@ -1,0 +1,13 @@
+{
+  "id": "article2",
+  "source": "riga.lv",
+  "lv_url": "https://www.riga.lv/lv/jaunums/nin-atvieglojumi-un-samazinata-likme-riga-svarigi-termini-un-nosacijumi",
+  "en_url": "https://www.riga.lv/en/article/real-estate-tax-relief-and-reduced-rate-riga-important-terms-and-conditions",
+  "languages": ["lv", "en"],
+  "files": {
+    "lv": "cleaned/lv/article2.clean.txt",
+    "en": "cleaned/en/article2.clean.txt"
+  },
+  "topic": "municipal news",
+  "notes": "Document-level parallel pair"
+}
